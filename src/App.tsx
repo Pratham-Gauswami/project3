@@ -43,19 +43,19 @@ function App() {
       title: "TeachingAI",
       description: "A smart, role-based platform enhancing learning, teaching, and management.",
       imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      link: "#"
+      link: "https://github.com/Pratham-Gauswami/TeachingAI"
     },
     {
       title: "PythonChatbot",
       description: "A Chatbot made using OpenAI and Coher API keys, written in Python",
       imageUrl: "https://example.com/image2.jpg",
-      link: "#"
+      link: "https://github.com/Pratham-Gauswami/PythonChatbot"
     },
     {
       title: "SaveMyJobPostings",
       description: "A Chrome extension to help users save web pages or specific job postings, making it easy to remember and revisit opportunities during a job search. Stay organized and track your job hunt effortlessly!",
       imageUrl: "https://example.com/image3.jpg",
-      link: "#"
+      link: "https://github.com/Pratham-Gauswami/SaveMyJobPostings"
     }
   ];
 
